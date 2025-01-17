@@ -1,6 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "meraki",
+  "name": "ling",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,17 +11,4 @@
   "author": "",
   "license": "ISC",
   "description": ""
-=======
-    "private": true,
-    "type": "module",
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build"
-    },
-    "devDependencies": {
-        "axios": "^1.6.4",
-        "laravel-vite-plugin": "^1.0",
-        "vite": "^5.0"
-    }
->>>>>>> c8262d7 (First Commit)
 }
